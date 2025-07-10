@@ -24,7 +24,7 @@ AI MVP2기 최종 결과물
 
 
 
-🧩 Demo 🧩
+🧩 Demo 🧩  
 user28webapp-crdzdxb7fvetf8gb.koreacentral-01.azurewebsites.net
 
 
