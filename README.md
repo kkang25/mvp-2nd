@@ -23,6 +23,7 @@ AI MVP2기 최종 결과물
 •	기존 스펙회의 한 과제에 대해 사후 관리 
 
 🧩 Demo 🧩
+user28webapp-crdzdxb7fvetf8gb.koreacentral-01.azurewebsites.net
 
 
 
